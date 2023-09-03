@@ -1,0 +1,32 @@
+.logo {
+  position: relative;
+  height: 3rem;
+  width: 3rem;
+  top: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+  }
+
+.ifc-viewer-title{
+    font-size: 1rem;
+    text-align: center;
+    flex-wrap: nowrap;
+    position: relative;
+}
+
+.model-title {
+    font-size: 1rem;
+    position: relative;
+    width: 100%;
+    text-align: right;
+  }
+
+header {
+  display: flex;
+  border-bottom: solid;
+  box-sizing: 0.5rem;
+  border-color: black;
+  /* position: sticky; */
+}
